@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224150529687",
+    "project_id": "lllll-fc4a4",
+    "storage_bucket": "lllll-fc4a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224150529687:android:2f9f8c571c118c6cb86bd2",
+        "android_client_info": {
+          "package_name": "com.example.llll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6PaE3kql9RKxjL-XSPYg3LlsDS6seY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
